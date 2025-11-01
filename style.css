@@ -463,7 +463,7 @@ img {
     content: " ";
     position: absolute;
     width: 5px;
-    height: 23%;
+    height: 32%;
     background-color: #ba294d;
     left: calc(50% - 1px);
 }
@@ -747,6 +747,7 @@ footer .social a:hover{
    }
 
 }
+
 
 
 
