@@ -7,10 +7,10 @@ click on the link to see :- ([Open in Youtube](https://www.youtube.com/channel/U
 # portfolio preview
 
 # Home Page
-![screenshot](home.png)
+![screenshot](homw.png)
 
 # Skills Page 
-![screenshot](Skills.png)
+![screenshot](skills.png)
 
 # Education Page
 ![screenshot](edu.png)
