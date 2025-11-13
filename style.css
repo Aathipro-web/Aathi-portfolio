@@ -389,6 +389,7 @@ img {
 
 .skills .container .bar:hover{
     box-shadow: 0 4px 10px red;
+    transform: scale(1.05);
     
    
    
@@ -747,6 +748,7 @@ footer .social a:hover{
    }
 
 }
+
 
 
 
