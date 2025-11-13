@@ -7,19 +7,16 @@ click on the link to see :- ([Open in Youtube](https://www.youtube.com/channel/U
 # portfolio preview
 
 # Home Page
-![screenshot](AlexHome.png)
+![screenshot](home.png)
 
 # Skills Page 
-![screenshot](AlexSkill.png)
+![screenshot](Skills.png)
 
 # Education Page
-![screenshot](AlexEducation.png)
-
-# Services Page
-![screenshot](AlexServices.png)
+![screenshot](edu.png)
 
 # Contact page
-![screenshot](AlexContact.png)
+![screenshot](contact.png)
 
 # Footer section
 ![screenshot](AlexFooter.png)
